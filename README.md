@@ -8,6 +8,5 @@ Notable features include:
  - support of different discretization methods, including finite element, finite volume, and even meshless methods
  - high-order methods, including FEM, DG, and AES-FEM supported
  - treatment of discontinuities in solutions (and in curves and surfaces)
- - C/C++ & Fortran API
- - Python and MATLAB API
+ - efficient C code with high-level Python API
  - multithreaded implementation of solution transfer
